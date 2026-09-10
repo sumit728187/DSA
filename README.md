@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit728187/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0336-palindrome-pairs](https://github.com/sumit728187/DSA/tree/master/0336-palindrome-pairs) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sumit728187/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 ## Hash Table
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/sumit728187/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit728187/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
