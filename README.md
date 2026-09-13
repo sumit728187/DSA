@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sumit728187/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sumit728187/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sumit728187/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sumit728187/DSA/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/sumit728187/DSA/tree/master/0336-palindrome-pairs) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sumit728187/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit728187/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sumit728187/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sumit728187/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
