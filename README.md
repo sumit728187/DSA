@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit728187/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit728187/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sumit728187/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sumit728187/DSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sumit728187/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sumit728187/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sumit728187/DSA/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sumit728187/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sumit728187/DSA/tree/master/0137-single-number-ii) |
 ## Binary Search
 |  |
 | ------- |
